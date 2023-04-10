@@ -2,8 +2,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int main()
-{
-	int i, j,m=1;
+{int i, j,m=1;
 	char a[1000][1000] = {0};
 	while (scanf("%d", &j) != EOF)
 	{
